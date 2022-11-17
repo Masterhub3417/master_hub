@@ -1,5 +1,6 @@
 #2_RNA
 
+```
 #解答
 input_dna = input('DNAを入力してください')
 input_dna = input_dna.replace('T', 'U')
@@ -10,3 +11,4 @@ dna = "GATGGAACTTGACTACGTAAATT"
 rna = dna.replace("T", "U")
 
 s = input() print(s.replace("T", "U"))
+```
