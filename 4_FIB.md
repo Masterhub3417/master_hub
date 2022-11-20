@@ -1,5 +1,0 @@
-
-
-```
-imporf as numpy
-```
